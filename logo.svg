@@ -1,0 +1,5 @@
+
+      <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="100,150 200,150 150,50" fill="red"/>
+        <text x="150" y="100" fill="black" font-size="30" text-anchor="middle" alignment-baseline="central">SOS</text>
+      </svg>
